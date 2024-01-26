@@ -1,0 +1,1 @@
+declare module '*.png' //para parar de dar erro ao importar icones e imagens
